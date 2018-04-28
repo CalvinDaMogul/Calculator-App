@@ -59,9 +59,9 @@ class App extends Component {
     return (
       <div className="App">
         <form onSubmit={this.runCalculation}>
-          <table>
-            <thead>
-              <tr>
+          <table class="pointer">
+            <thead class="">
+              <tr class="pointer">
                 <td colSpan="4">
                   <input
                     className="calculator__display"

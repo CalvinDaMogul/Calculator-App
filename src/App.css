@@ -7,7 +7,7 @@
   margin: 2rem auto;
   font-size: 2rem;
 
-  background-color: white;
+  background-color: rgba(51, 16, 131, 0.699);
 }
 
 .App table td {
@@ -19,4 +19,8 @@
   text-align: right;
   border: 0;
   padding: .4rem .1rem;
+}
+
+.pointer {
+  cursor: pointer;
 }
